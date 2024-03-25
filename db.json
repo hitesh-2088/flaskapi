@@ -1,0 +1,22 @@
+[
+    {
+        "username": "test",
+        "dob": "12/23/1222",
+        "email": "hitesh2088@gmail.com",
+        "aadhar": "1234567890",
+        "mobile": "2345678901",
+        "plan_id": "Platinum365",
+        "active": "active",
+        "id": 1
+    },
+    {
+        "username": "test",
+        "dob": "12/23/1222",
+        "email": "hitesh2088@gmail.com",
+        "aadhar": "1234567890",
+        "mobile": "2345678901",
+        "plan_id": "Platinum365",
+        "active": "active",
+        "id": 2
+    }
+]
